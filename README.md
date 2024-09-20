@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srujjulu
-- 👀 I’m interested in Full Stack Developer
+- 👀 I’m interested in WEB Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
